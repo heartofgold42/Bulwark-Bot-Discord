@@ -1,5 +1,6 @@
 # Bulwark Discord Bot 
-[Bulwark Discord]()
+
+*** This is a work in progress ***
 
 * SerfyWerfy ChangeLog
 * Added cryptopia API
@@ -7,13 +8,13 @@
 * added network hashrate RPC call
 * added !profit
 
-These files are intended to function as a multi-functional tipbot for Phore Currency
+These files are intended to function as a multi-functional tipbot for Bulwark Currency
 
 # Requirements
 * discord.py installed
 * Python 3.6+
 * A MySQL database
-* The Phore wallet w/ RPC enabled.
+* The Bulwark wallet w/ RPC enabled.
 
 # Functions
 * Display general wallet information
